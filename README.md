@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CarlyLockard
-- 👀 I’m interested in medical image processing and quantitative image value (e.g. MRI T2 mapping values) extraction/analysis
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 My work is focused on use of morphological and quantitative MRI in musculoskeletal tissues, including work related to T2 and T2* mapping and diffusion-imaging parameter mapping/tractography in cartilage, ligament, meniscus and muscle.
+- 📫 Contact email: Carly.Lockard@carle.com
 
 <!---
 CarlyLockard/CarlyLockard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
